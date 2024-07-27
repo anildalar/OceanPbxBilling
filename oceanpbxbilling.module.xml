@@ -1,0 +1,18 @@
+<module>
+   <name>OceanPBXBilling</name>
+    <description>A billing module for FreePBX with advanced billing features.</description>
+    <version>1.0.0</version>
+    <author>Anil DOllor</author>
+    <license>GPLv2</license>
+    <requires>
+        <freepbx>16.0.0</freepbx>
+    </requires>
+    <dependencies>
+        <!-- List dependencies here if any -->
+    </dependencies>
+    <files>
+        <file>bin/oceanpbxbilling.php</file>
+        <file>config/oceanpbxbilling.conf</file>
+    </files>
+</module>
+
